@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "yekan";
+    src: url("font/Yekan-Bakh-FaNum-04-Regular.woff") format("woff");
+}
+* {
+    font-family: "yekan";
+}
